@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "camila01@gmail.com",
+      "password": "$2a$10$6yTdOl8WzeIMHLobdXLDl.iOxccxQ9GUDW/ADUnuU5Aknllku.6EG",
+      "id": 1,
+      "rol": "mesero"
+    },
+    {
+      "email": "camila02@gmail.com",
+      "password": "$2a$10$4vzPwaCDZ9..tyU8C/tNG.JSJmyBFGCc3USBjC/Y4flggOX6uQEum",
+      "id": 2,
+      "rol": "mesero"
+    },
+    {
+      "email": "camila04@gmail.com",
+      "password": "$2a$10$5ox1RTqKgoHH01VZl7aPxu4Ko7Jjp8DpNpnLKfSX0fITBDW1fAXAK",
+      "id": 3,
+      "rol": "mesero"
+    },
+    {
+      "email": "nicole@gmail.com",
+      "password": "$2a$10$FhAeBic3ra1S0n7OWbI6TeSUGQ8qFjHHOdk2zWYUKPDiz06sk7JMG",
+      "id": 4,
+      "rol": "mesero"
+    },
+    {
+      "email": "dani@gmail.com",
+      "password": "$2a$10$QTxXGOAEMSVqsQnIQry5hun7xw/LvWugnOdDiCFYyYSpNralLhww.",
+      "id": 5,
+      "rol": "mesero"
+    },
+    {
+      "email": "nicole1@gmail.com",
+      "password": "$2a$10$gz7M2xInEx1OJEu1gweLiOuIAG3vq.jxBO3/.foFMHS5NZ9lNvICO",
+      "rol": "cocina",
+      "id": 6
+    },
+    {
+      "email": "nicole2@gmail.com",
+      "password": "$2a$10$YlRlTW.b62BtkjRKQA3IF.CtF3LmFxU.eZSF1y7ELQQK5XIES7jzi",
+      "rol": "admin",
+      "id": 7
+    },
+    {
+      "email": "nicole3@gmail.com",
+      "password": "$2a$10$grcRIq5RjF6LtOLyM60YxePI23nsv/bIjIoj1fPeR16Hnr9jlNPay",
+      "rol": "cocinero",
+      "id": 8
+    }
+  ]
+}
